@@ -315,7 +315,7 @@
      }
 
      .Contact{
-         height:50vh;
+         height:100vh;
      }
   }
 
@@ -385,8 +385,14 @@
 }
 
 .Contact{
-    height:160vh;
+    height:100vh;
     background: black;
+    height: 1200px;
+    padding-top: 20px;
+}
+
+.child {
+ padding-top: 60px;
 }
 
 .c-text{
